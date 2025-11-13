@@ -84,8 +84,9 @@ int main()
 ```
 
 ## OUTPUT
-
-<img width="842" height="721" alt="image" src="https://github.com/user-attachments/assets/eefdddf3-ae34-4813-a2ad-5dfe78c6f8fe" />
+![WhatsApp Image 2025-11-13 at 08 18 57](https://github.com/user-attachments/assets/4cf30123-7939-436a-970e-5145bb33a927)
+![WhatsApp Image 2025-11-13 at 08 19 47](https://github.com/user-attachments/assets/850e83fa-b81f-45d1-bd8c-4b73184ff2e8)
+![WhatsApp Image 2025-11-13 at 08 21 20](https://github.com/user-attachments/assets/4357418e-e11c-4e6b-9fe4-53d659b6f7b2)
 
 # RESULT:
 The programs are executed successfully.
